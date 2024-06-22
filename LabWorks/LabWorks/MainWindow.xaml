@@ -1,0 +1,70 @@
+﻿<Window x:Class="LabWorks.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabWorks"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800">
+    <StackPanel>
+        <TextBlock x:Name="dataAccessLayerTextBlock"/>
+        <TextBlock x:Name="taskTextBlock" Text="Вывод значений для заданий"/>
+        <TextBox x:Name="queryTextBox" Text="Введите запрос"/>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Label Content="Id книги:"/>
+            <TextBox x:Name="idTextBox" Grid.Column="1"/>
+            <Label Content="Новая цена книги:" Grid.Column="2"/>
+            <TextBox x:Name="newPriceTextBox" Grid.Column="3"/>
+            <Label Content="Введите название таблицы: " Grid.Row="1"/>
+            <TextBox x:Name="nameTableTextBox" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="3"/>
+            <Label Content="Введите цену книги:" Grid.Row="2"/>
+            <TextBox x:Name="bookPriceTextBox" Grid.Row="2" Grid.Column="1"/>
+            <Label Content="Новое название книги:" Grid.Row="2" Grid.Column="2"/>
+            <TextBox x:Name="newTitleTextBox" Grid.Row="2" Grid.Column="3"/>
+            <Label Content="Введите жанр книги:" Grid.Row="3"/>
+            <TextBox x:Name="genreTextBox" Grid.Row="3" Grid.Column="1"/>
+            <Label Content="Введите цену книги:" Grid.Row="3" Grid.Column="2"/>
+            <TextBox x:Name="priceTextBox" Grid.Row="3" Grid.Column="3"/>
+        </Grid>
+        <Button x:Name="queryButton" Content="Выполнить запрос" Click="QueryButton_Click"/>
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <RadioButton Content="GetValue" x:Name="task1RadioButton" Margin="5" IsChecked="True" GroupName="Tasks"/>
+            <RadioButton Content="GetTable" x:Name="task2RadioButton" Margin="5" GroupName="Tasks"/>
+            <RadioButton Content="GetValues" x:Name="task3RadioButton" Margin="5" GroupName="Tasks"/>
+            <Label Content="//ЛР45"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <RadioButton Content="ChangeValues" x:Name="task4RadioButton" Margin="5" GroupName="Tasks"/>
+            <RadioButton Content="IsPriceChanged" x:Name="task5RadioButton" Margin="5" GroupName="Tasks"/>
+            <RadioButton Content="GetValuesTable" x:Name="task6RadioButton" Margin="5" GroupName="Tasks"/>
+            <RadioButton Content="UpdateTable" x:Name="task7RadioButton" Margin="5" GroupName="Tasks"/>
+            <Label Content="//ЛР46"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <RadioButton Content="GetBookByPrice" x:Name="task8RadioButton" Margin="5" GroupName="Tasks"/>
+            <RadioButton Content="AddRecord" x:Name="task9RadioButton" Margin="5" GroupName="Tasks"/>
+            <RadioButton Content="GetTableBook" x:Name="task10RadioButton" Margin="5" GroupName="Tasks"/>
+            <RadioButton Content="ChangeBookTitlePrice" x:Name="task11RadioButton" Margin="5" GroupName="Tasks"/>
+            <Label Content="//ЛР47"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <RadioButton Content="AddAuthor" x:Name="task121RadioButton" Margin="5" GroupName="Tasks"/>
+            <RadioButton Content="GetAuthorId" x:Name="task122RadioButton" Margin="5" GroupName="Tasks"/>
+            <RadioButton Content="ShowBooks" x:Name="task123RadioButton" Margin="5" GroupName="Tasks"/>
+            <Label Content="//ЛР48"/>
+        </StackPanel>
+        <DataGrid x:Name="dataGridQuery"/>
+    </StackPanel>
+</Window>

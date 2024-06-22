@@ -1,0 +1,24 @@
+C:\Temp\ispp21\LabWork36\Task 1-3\obj\Debug\net8.0-windows\App.g.cs
+C:\Temp\ispp21\LabWork36\Task 1-3\obj\Debug\net8.0-windows\Task 1-3_MarkupCompile.cache
+C:\Temp\ispp21\LabWork36\Task 1-3\bin\Debug\net8.0-windows\Task 1-3.exe
+C:\Temp\ispp21\LabWork36\Task 1-3\bin\Debug\net8.0-windows\Task 1-3.deps.json
+C:\Temp\ispp21\LabWork36\Task 1-3\bin\Debug\net8.0-windows\Task 1-3.runtimeconfig.json
+C:\Temp\ispp21\LabWork36\Task 1-3\bin\Debug\net8.0-windows\Task 1-3.dll
+C:\Temp\ispp21\LabWork36\Task 1-3\bin\Debug\net8.0-windows\Task 1-3.pdb
+C:\Temp\ispp21\LabWork36\Task 1-3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Temp\ispp21\LabWork36\Task 1-3\obj\Debug\net8.0-windows\Task 1-3_MarkupCompile.lref
+C:\Temp\ispp21\LabWork36\Task 1-3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Temp\ispp21\LabWork36\Task 1-3\obj\Debug\net8.0-windows\Task 1-3.g.resources
+C:\Temp\ispp21\LabWork36\Task 1-3\obj\Debug\net8.0-windows\Task 1-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ispp21\LabWork36\Task 1-3\obj\Debug\net8.0-windows\Task 1-3.AssemblyInfoInputs.cache
+C:\Temp\ispp21\LabWork36\Task 1-3\obj\Debug\net8.0-windows\Task 1-3.AssemblyInfo.cs
+C:\Temp\ispp21\LabWork36\Task 1-3\obj\Debug\net8.0-windows\Task 1-3.csproj.CoreCompileInputs.cache
+C:\Temp\ispp21\LabWork36\Task 1-3\obj\Debug\net8.0-windows\Task 1-3.dll
+C:\Temp\ispp21\LabWork36\Task 1-3\obj\Debug\net8.0-windows\refint\Task 1-3.dll
+C:\Temp\ispp21\LabWork36\Task 1-3\obj\Debug\net8.0-windows\Task 1-3.pdb
+C:\Temp\ispp21\LabWork36\Task 1-3\obj\Debug\net8.0-windows\Task 1-3.genruntimeconfig.cache
+C:\Temp\ispp21\LabWork36\Task 1-3\obj\Debug\net8.0-windows\ref\Task 1-3.dll
+C:\Temp\ispp21\LabWork36\Task 1-3\obj\Debug\net8.0-windows\NewWindow.g.cs
+C:\Temp\ispp21\LabWork36\Task 1-3\obj\Debug\net8.0-windows\NewWindow.baml
+C:\Temp\ispp21\LabWork36\Task 1-3\obj\Debug\net8.0-windows\CloseWindow.g.cs
+C:\Temp\ispp21\LabWork36\Task 1-3\obj\Debug\net8.0-windows\CloseWindow.baml

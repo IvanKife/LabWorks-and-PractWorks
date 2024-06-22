@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ispp21\\LabWork36\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC86D5D3-8083-4953-8D48-D1FE6E81F9DB}|Task 1-3\\Task 1-3.csproj|c:\\temp\\ispp21\\labwork36\\task 1-3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC86D5D3-8083-4953-8D48-D1FE6E81F9DB}|Task 1-3\\Task 1-3.csproj|solutionrelative:task 1-3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC86D5D3-8083-4953-8D48-D1FE6E81F9DB}|Task 1-3\\Task 1-3.csproj|c:\\temp\\ispp21\\labwork36\\task 1-3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DC86D5D3-8083-4953-8D48-D1FE6E81F9DB}|Task 1-3\\Task 1-3.csproj|solutionrelative:task 1-3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC86D5D3-8083-4953-8D48-D1FE6E81F9DB}|Task 1-3\\Task 1-3.csproj|c:\\temp\\ispp21\\labwork36\\task 1-3\\newwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DC86D5D3-8083-4953-8D48-D1FE6E81F9DB}|Task 1-3\\Task 1-3.csproj|solutionrelative:task 1-3\\newwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\0109-12\\AppData\\Local\\Temp\\.vsdbgsrc\\baf221bb997c1d79e0e5c2a5bb67d1b6663d80d6abf43858f2778540752481af\\SplashScreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC86D5D3-8083-4953-8D48-D1FE6E81F9DB}|Task 1-3\\Task 1-3.csproj|c:\\temp\\ispp21\\labwork36\\task 1-3\\closewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DC86D5D3-8083-4953-8D48-D1FE6E81F9DB}|Task 1-3\\Task 1-3.csproj|solutionrelative:task 1-3\\closewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC86D5D3-8083-4953-8D48-D1FE6E81F9DB}|Task 1-3\\Task 1-3.csproj|c:\\temp\\ispp21\\labwork36\\task 1-3\\closewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC86D5D3-8083-4953-8D48-D1FE6E81F9DB}|Task 1-3\\Task 1-3.csproj|solutionrelative:task 1-3\\closewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CloseWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\LabWork36\\Task 1-3\\CloseWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task 1-3\\CloseWindow.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp21\\LabWork36\\Task 1-3\\CloseWindow.xaml.cs",
+              "RelativeToolTip": "Task 1-3\\CloseWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:22:53.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CloseWindow.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\LabWork36\\Task 1-3\\CloseWindow.xaml",
+              "RelativeDocumentMoniker": "Task 1-3\\CloseWindow.xaml",
+              "ToolTip": "C:\\Temp\\ispp21\\LabWork36\\Task 1-3\\CloseWindow.xaml",
+              "RelativeToolTip": "Task 1-3\\CloseWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-07T11:31:11.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SplashScreen.cs",
+              "DocumentMoniker": "C:\\Users\\0109-12\\AppData\\Local\\Temp\\.vsdbgsrc\\baf221bb997c1d79e0e5c2a5bb67d1b6663d80d6abf43858f2778540752481af\\SplashScreen.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\0109-12\\AppData\\Local\\Temp\\.vsdbgsrc\\baf221bb997c1d79e0e5c2a5bb67d1b6663d80d6abf43858f2778540752481af\\SplashScreen.cs",
+              "ToolTip": "C:\\Users\\0109-12\\AppData\\Local\\Temp\\.vsdbgsrc\\baf221bb997c1d79e0e5c2a5bb67d1b6663d80d6abf43858f2778540752481af\\SplashScreen.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\Users\\0109-12\\AppData\\Local\\Temp\\.vsdbgsrc\\baf221bb997c1d79e0e5c2a5bb67d1b6663d80d6abf43858f2778540752481af\\SplashScreen.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAAG4AAAAAAAAAAAASwIEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:23:59.57Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewWindow.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\LabWork36\\Task 1-3\\NewWindow.xaml",
+              "RelativeDocumentMoniker": "Task 1-3\\NewWindow.xaml",
+              "ToolTip": "C:\\Temp\\ispp21\\LabWork36\\Task 1-3\\NewWindow.xaml",
+              "RelativeToolTip": "Task 1-3\\NewWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-07T11:12:06.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\LabWork36\\Task 1-3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Task 1-3\\MainWindow.xaml",
+              "ToolTip": "C:\\Temp\\ispp21\\LabWork36\\Task 1-3\\MainWindow.xaml",
+              "RelativeToolTip": "Task 1-3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-07T10:57:32.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\LabWork36\\Task 1-3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task 1-3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp21\\LabWork36\\Task 1-3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Task 1-3\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAhwCEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:57:31.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
